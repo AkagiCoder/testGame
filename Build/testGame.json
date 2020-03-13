@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "CC_Background",
+"productName": "rhythymGame",
 "productVersion": "0.1",
 "dataUrl": "testGame.data.unityweb",
 "wasmCodeUrl": "testGame.wasm.code.unityweb",
